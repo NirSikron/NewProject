@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/src/calc/libs/JUnit 5.11.3 source code/junit-team-junit5-dd894b9/gradle/base" name="base">
+                <projects>
+                  <project path="$PROJECT_DIR$/src/calc/libs/JUnit 5.11.3 source code/junit-team-junit5-dd894b9/gradle/base" />
+                  <project path="$PROJECT_DIR$/src/calc/libs/JUnit 5.11.3 source code/junit-team-junit5-dd894b9/gradle/base/code-generator-model" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/src/calc/libs/JUnit 5.11.3 source code/junit-team-junit5-dd894b9/gradle/plugins" name="plugins">
+                <projects>
+                  <project path="$PROJECT_DIR$/src/calc/libs/JUnit 5.11.3 source code/junit-team-junit5-dd894b9/gradle/plugins" />
+                  <project path="$PROJECT_DIR$/src/calc/libs/JUnit 5.11.3 source code/junit-team-junit5-dd894b9/gradle/plugins/build-parameters" />
+                  <project path="$PROJECT_DIR$/src/calc/libs/JUnit 5.11.3 source code/junit-team-junit5-dd894b9/gradle/plugins/code-generator" />
+                  <project path="$PROJECT_DIR$/src/calc/libs/JUnit 5.11.3 source code/junit-team-junit5-dd894b9/gradle/plugins/common" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/src/calc/libs/JUnit 5.11.3 source code/junit-team-junit5-dd894b9" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/src/calc/libs/JUnit 5.11.3 source code/junit-team-junit5-dd894b9" />
+            <option value="$PROJECT_DIR$/src/calc/libs/JUnit 5.11.3 source code/junit-team-junit5-dd894b9/gradle/base" />
+            <option value="$PROJECT_DIR$/src/calc/libs/JUnit 5.11.3 source code/junit-team-junit5-dd894b9/gradle/base/code-generator-model" />
+            <option value="$PROJECT_DIR$/src/calc/libs/JUnit 5.11.3 source code/junit-team-junit5-dd894b9/gradle/plugins" />
+            <option value="$PROJECT_DIR$/src/calc/libs/JUnit 5.11.3 source code/junit-team-junit5-dd894b9/gradle/plugins/build-parameters" />
+            <option value="$PROJECT_DIR$/src/calc/libs/JUnit 5.11.3 source code/junit-team-junit5-dd894b9/gradle/plugins/code-generator" />
+            <option value="$PROJECT_DIR$/src/calc/libs/JUnit 5.11.3 source code/junit-team-junit5-dd894b9/gradle/plugins/common" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
